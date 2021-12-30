@@ -1,0 +1,30 @@
+[
+    {
+        "nama": "Abu Abdirohman",
+        "umur": 24,
+        "nim": 1301164354,
+        "lulus": true,
+        "hobby": [
+            "coding",
+            "football"
+        ],
+        "pembimbing": {
+            "pembimbing1": "Arif Bijaksana",
+            "pembimbing2": "Donni Richasdy"
+        }
+    },
+    {
+        "nama": "Abu Abdirohman",
+        "umur": 24,
+        "nim": 1301164354,
+        "lulus": true,
+        "hobby": [
+            "coding",
+            "football"
+        ],
+        "pembimbing": {
+            "pembimbing1": "Arif Bijaksana",
+            "pembimbing2": "Donni Richasdy"
+        }
+    }
+]
